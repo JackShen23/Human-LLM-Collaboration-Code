@@ -43,9 +43,6 @@ The analysis-ready interaction sequence for one participant.
 | `reaction_time` | Decision time in seconds |
 | `round_score` | Trial score; 0 denotes a correct final decision |
 
-There are 201 complete 60-round files and one 57-round file. Missing rounds are
-not imputed; the incomplete sequence is excluded from PKHMM fitting.
-
 ## `scenario_statistics.csv`
 
 One row per scenario, containing the scenario features used by PKHMM,
