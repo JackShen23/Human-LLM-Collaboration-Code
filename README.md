@@ -1,4 +1,4 @@
-# Human–LLM Collaboration: Figures and PKHMM Code
+# Human–LLM Collaboration
 
 This repository contains code for reproducing the main figures and fitting the
 covariate-dependent hidden Markov model (PKHMM) used in our study of human–LLM
