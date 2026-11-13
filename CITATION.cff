@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and this software release (Updating)."
+title: "Human–LLM Collaboration: Figure and Model Code"
+type: software
+version: 1.0.0
+date-released: 2026-11-13
+authors:
+  - family-names: "Human–LLM Collaboration Study Authors"
+license: MIT
+abstract: >-
+  Analysis, visualization, and covariate-dependent hidden Markov model code
+  for a study of human–LLM collaboration.
